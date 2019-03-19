@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="052a508a-f602-44ca-bf5e-df4e5e0ded4d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/practiceautomation/src/test/java/TestHomepage.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceautomation/src/test/java/TestHomepage.java" afterDir="false" />
-    </list>
+    <list default="true" id="052a508a-f602-44ca-bf5e-df4e5e0ded4d" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/common/target/" />
@@ -55,8 +53,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/practiceautomation/src/test/java/TestHomepage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="150">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -177,7 +175,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="726" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18739903" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -237,8 +234,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/practiceautomation/src/test/java/TestHomepage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
